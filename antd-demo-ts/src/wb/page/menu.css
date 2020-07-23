@@ -1,0 +1,20 @@
+.menu {
+    padding-top: 12vh;
+    background-color: orange;
+    width: 150px;
+}
+
+.menu .link {
+    font-size: 20px;
+    line-height: 36px;
+}
+
+.link:hover {
+    color: red;
+}
+
+.menu .link-active {
+    cursor: text;
+    text-decoration: none;
+    color: #555;
+}

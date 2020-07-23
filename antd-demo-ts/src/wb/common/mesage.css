@@ -1,0 +1,37 @@
+.me-page {
+    z-index: 1000;
+    right: 200px;
+}
+
+.me-page .me-item {
+    margin-top: 10px;
+    padding: 6px 18px;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 32px;
+    animation: me-item-act 3.6s linear;
+}
+
+@keyframes me-item-act {
+    0%{
+        top: 0;
+        opacity: 1;
+    }
+    80%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0.3;
+    }
+}
+
+.me-page .me-success {
+    background-color: #D4EDDA;
+    color: #155724;
+}
+
+.me-page .me-failure {
+    background-color: #F8D7DA;
+    color: #721C24;
+}
+

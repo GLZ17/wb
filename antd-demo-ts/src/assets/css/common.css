@@ -1,0 +1,101 @@
+.df {
+    display: flex;
+}
+
+.dn {
+    display: none;
+}
+
+.fjc {
+    justify-content: center;
+}
+
+.fje {
+    justify-content: flex-end;
+}
+
+.fjb {
+    justify-content: space-between;
+}
+
+.fac {
+    align-items: center;
+}
+
+.fdc {
+    flex-direction: column;
+}
+
+.fwn {
+    flex-wrap: nowrap;
+}
+
+.sw {
+    width: 100vw;
+}
+
+.sh {
+    height: 100vh;
+}
+
+.pr {
+    position: relative;
+}
+
+.pf {
+    position: fixed;
+}
+
+.pa {
+    position: absolute;
+}
+
+.ma {
+    margin: 0 auto;
+}
+
+.tac {
+    text-align: center;
+}
+.tal{
+    text-align: left;
+}
+.tar {
+    text-align: right;
+}
+
+.ofh {
+    overflow: hidden;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.h100 {
+    height: 100%;
+}
+
+.t0 {
+    top: 0;
+}
+
+.l0 {
+    left: 0;
+}
+
+.r0 {
+    right: 0;
+}
+
+.b0 {
+    bottom: 0;
+}
+
+.mw100 {
+    max-width: 100%;
+}
+
+.mh100 {
+    max-height: 100%;
+}

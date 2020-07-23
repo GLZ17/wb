@@ -1,0 +1,23 @@
+:root{
+    --table-border : 1px solid #aaa;
+}
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: var(--table-border);
+    border-right: var(--table-border);
+}
+
+table th{
+    color: #0f1105;
+}
+table td{
+    color: #465553;
+}
+table tr{
+    border-top: var(--table-border);
+}
+table th, table td{
+    border-left: var(--table-border);
+}

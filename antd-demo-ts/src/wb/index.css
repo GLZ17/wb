@@ -1,0 +1,21 @@
+.page {
+    padding-left: 150px;
+}
+
+.index-title {
+    padding-top: 22vh;
+    font-size: 36px;
+    color: #555;
+}
+
+.index-content {
+    padding-top: 50px;
+    font-size: 28px;
+    color: #777;
+}
+
+.p-curve{
+    padding-top: 10vh;
+    width: 800px;
+    margin: 0 auto;
+}
